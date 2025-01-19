@@ -1,0 +1,1 @@
+This is a Light Solarized paper theme for VS Code with extra Sepia.

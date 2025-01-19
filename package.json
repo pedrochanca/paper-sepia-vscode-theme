@@ -1,0 +1,23 @@
+{
+  "name": "paper-sepia-theme",
+  "displayName": "Paper Sepia Theme",
+  "description": "A light solarized theme with added Sepia",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "publisher": "undisclosed",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedrochanca/paper-sepia-vscode-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Paper Sepia Theme",
+        "uiTheme": "vs",
+        "path": "./themes/paper-sepia-color-theme.json"
+      }
+    ]
+  }
+}
