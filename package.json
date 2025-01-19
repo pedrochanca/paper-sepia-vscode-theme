@@ -6,7 +6,7 @@
   "engines": {
     "vscode": "^1.96.0"
   },
-  "publisher": "undisclosed",
+  "publisher": "undisclosed-aeura",
   "repository": {
     "type": "git",
     "url": "https://github.com/pedrochanca/paper-sepia-vscode-theme.git"
